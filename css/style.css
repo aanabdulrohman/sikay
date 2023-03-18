@@ -395,6 +395,10 @@ footer .credit a {
     font-size: 1.2rem;
   }
 
+  .menu .row {
+    flex-wrap: wrap;
+  }
+
   .contact .row {
     flex-wrap: wrap;
   }
